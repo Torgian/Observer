@@ -18,7 +18,7 @@ div
 
 </template>
 <script>
-import Observer from '~/components/Elements/Observer.vue'
+import Observer from '~/Observer.vue'
 
 export default {
   name: 'DemoObserve',
